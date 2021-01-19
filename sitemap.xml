@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/01/19/%E7%AE%97%E6%B3%95_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8D%8E%E4%B8%BA-%E6%9C%BA%E8%80%83/</loc>
+    
+    <lastmod>2021-01-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/01/18/flask/9-2%20%E6%80%BB%E7%BB%93_SQLAlchemy/</loc>
     
     <lastmod>2021-01-19</lastmod>
@@ -101,13 +108,6 @@
   
   <url>
     <loc>http://example.com/2021/01/19/%E7%AE%97%E6%B3%95_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B9%A0%E9%A2%98/</loc>
-    
-    <lastmod>2021-01-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/01/19/%E7%AE%97%E6%B3%95_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8D%8E%E4%B8%BA-%E6%9C%BA%E8%80%83/</loc>
     
     <lastmod>2021-01-19</lastmod>
     
