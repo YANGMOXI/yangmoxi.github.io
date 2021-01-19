@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/01/18/flask/4%20%E6%A8%A1%E6%9D%BF/</loc>
+    
+    <lastmod>2021-01-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/01/19/%E7%AE%97%E6%B3%95_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B9%A0%E9%A2%98/</loc>
     
     <lastmod>2021-01-19</lastmod>
@@ -170,13 +177,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/01/18/flask/4%20%E6%A8%A1%E6%9D%BF/</loc>
-    
-    <lastmod>2021-01-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2021/01/18/flask/2%20flask%E6%B3%A8%E5%86%8C%E8%B7%AF%E7%94%B1/</loc>
     
     <lastmod>2021-01-18</lastmod>
@@ -242,14 +242,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Mysql/</loc>
+    <loc>http://example.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
     <lastmod>2021-01-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <loc>http://example.com/tags/Mysql/</loc>
     <lastmod>2021-01-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
