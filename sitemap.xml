@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-01-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/01/18/django/9-jwt%E8%AE%A4%E8%AF%81/</loc>
     
     <lastmod>2021-01-20</lastmod>
